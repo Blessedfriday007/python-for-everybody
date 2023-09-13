@@ -1,4 +1,4 @@
-# python-for-everybody
+# Python-for-everybody
  python-for-everybody assignments by Dr Charles R. Severance. --
 
 ### 0x00.py & 0x01.py
