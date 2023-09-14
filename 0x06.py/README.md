@@ -37,4 +37,16 @@ the .startswith is a reserved word in python, it is used to check if a string st
  ```
 - rstrip(): I used it to strip off whitespaces from the right, after extracting all the floating point values.
 
+*Executing the program will look as follow.*
+
+```
+$  Python fname.py
+Enter file name: mbox-short.txt
+Count: 27
+Total: 20.269400000000005
+Average spam confidence: 0.7507185185185187
+
+```
+
+
 Read up more documentations [here](https://www.learnpython.org/)
