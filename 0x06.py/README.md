@@ -35,6 +35,6 @@ the line.lower() statement was used to convert the x-dspam-confidence: to all lo
 the .startswith is a reserved word in python, it is used to check if a string starts with a given substring or not.
 
  ```
-- rstrip(): I used it to strip off whitespaces from the right, after extracting all the floating points value.
+- rstrip(): I used it to strip off whitespaces from the right, after extracting all the floating point values.
 
 Read up more documentations [here](https://www.learnpython.org/)
