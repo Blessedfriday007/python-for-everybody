@@ -27,7 +27,7 @@ You can download the sample data [here](http://www.py4e.com/code3/mbox-short.txt
 
 
 ### Short explanations
-- line 10
+#### line 10
 ```
  if  line.lower().startswith('x-dspam-confidence:'):
 
