@@ -13,7 +13,7 @@ for line in fname:
     line_list=line.split(" ")
     confidence = float(line_list[1].rstrip())
     total = confidence + total
-    average = total / count
+average = total / count
 
 print("Count:",count)
 print("Total:",total)
