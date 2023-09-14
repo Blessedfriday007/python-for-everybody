@@ -40,7 +40,7 @@ the .startswith is a reserved word in python, it is used to check if a string st
 *Executing the program will look as follow.*
 
 ```
-$  Python fname.py
+$ Python fname.py
 Enter file name: mbox-short.txt
 Count: 27
 Total: 20.269400000000005
