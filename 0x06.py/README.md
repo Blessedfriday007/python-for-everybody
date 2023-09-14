@@ -23,7 +23,7 @@ RECEIVED: FROM MURDER (MAIL.UMICH.EDU [141.211.14.90])
 X-DSPAM-Confidence:    0.8475
 ```
 Count these lines and extract the floating point values from each of the lines and compute the average of those values and produce an output as shown below. Do not use the sum() function or a variable named sum in your solution.
-You can download the sample data [Here](http://www.py4e.com/code3/mbox-short.txt) when you are testing below enter mbox-short.txt as the file name.
+You can download the sample data [here](http://www.py4e.com/code3/mbox-short.txt) when you are testing below enter mbox-short.txt as the file name.
 
 
 ### Short explanations
@@ -35,6 +35,6 @@ the line.lower() statement was used to convert the x-dspam-confidence: to all lo
 the .startswith is a reserved word in python, it is used to check if a string starts with a given substring or not.
 
  ```
-- rstrip(): WE USED IT TO STRIP OFF WHITESPACES FROM THE RIGHT AFTER EXTRACTING ALL THE FLOATING POINT VALUES.
+- rstrip(): I used it to strip off whitespaces from the right, after extracting all the floating points.
 
 Read up more documentations [here](https://www.learnpython.org/)
