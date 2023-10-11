@@ -1,18 +1,15 @@
 # use romeo.txt as the file name...
-words = []
 fname = input ("Enter file name: ")
 fh = open (fname)
-
-
+words = []
 for line in fh:
-            # Split the line into words
-            line_words = line.split()
-            for word in line_words:
-                if word not in words:
-                    words.append(word)
-            words.sort()
-            for word in words:
-             print(word)
+    for word in line.split():
+        if word not in words:
+            words.append(word)
+
+# Sort the list of unique words and print them
+words.sort()
+print(words)
 
     
 
