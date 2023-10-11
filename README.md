@@ -17,3 +17,6 @@
 - Files... learn how to open data files on your computer and read through the files using Python.
 ### 0x07.py
 - Lists.
+
+### 0x08.py
+- Dictionaries.
