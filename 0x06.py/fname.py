@@ -1,6 +1,6 @@
 #Use 'mbox-short.txt' as the file name...
 
-fh = input ("Enter file name: ")
+fh = input (" Enter file name: ")
 fname = open(fh)
 count = 0
 total = 0
@@ -18,12 +18,6 @@ average = total / count
 print("Count:",count)
 print("Total:",total)
 print("Average spam confidence:", average)
-
-
-
-
-
-
 
            
 
